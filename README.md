@@ -24,6 +24,10 @@ The table above uses the COUNTIFS function of excel to display the Outcomes Base
 
 ### Challenges and Difficulties Encountered
 
+Some challenges and difficulties encountered in performing the data anaylsis was in creating formulas to analyze the number of successful, failed, and canceled plays. The COUNTIFS formula was a lengthy formula that required a meticulous amount of time to perfect. At one point, I missed an extra space in the formula and it took me time to discover this. With the help of asking the class, I was able to identify the extra space and correct the error.
+
+I, also, expereienced some diffulty in creating the chart for the Outcomes Based on Goals pivot table. The x-axis was not displaying the goals correctly. The x-axis was reading numbers 1, 2,3,4 etc instead of displaying the goals. I had to troubleshoot this by exploring the Excel Chart Design options. Later, I confirmed via a google search to make sure I was editing the chart appropriately.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
