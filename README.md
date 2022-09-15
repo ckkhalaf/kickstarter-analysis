@@ -12,13 +12,13 @@ Louise is an upcoming playwriter who is looking to fund her play, "Fever." She i
 
 ### Analysis of Outcomes Based on Launch Date
 
-![](images/Theater_Outcomes_vs_Launch.png)
+![Image of Theater Outcomes Based on Launch Date Chart](Theater_Outcomes_vs_Launch.png)
 
 The chart above depicts the success of similar theater plays dependent on the month of the year. Louise will get a sense of when is the best time to launch her campaign throughout the year. It is evident the best months to launch a campaign would be in April through August as similar plays experienced success those months. More specifically, acording to the data, May and June would be the absolute best months to launch her campaign. 
 
 ### Analysis of Outcomes Based on Goals
 
-![](images/Outcomes_vs_Goals.png)
+![](Outcomes_vs_Goals.png)
 
 The table above uses the COUNTIFS function of excel to display the Outcomes Based on Goals in a line graph. By doing so, we are able to gather data on successful, failed and canceled events. The data reveals 0% of events were canceled. The data was filtered out by Parent Category and years in order to show Louise the best outcomes on projected goals by similar plays. Above are the results of the pivot table and line chart. 
 
