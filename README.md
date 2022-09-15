@@ -18,7 +18,7 @@ The chart above depicts the success of similar theater plays dependent on the mo
 
 ### Analysis of Outcomes Based on Goals
 
-![Image of Outcomes Based on Goals Chart](Image/Outcomes_vs_Goals.png)
+![Image of Outcomes Based on Goals Chart](Outcomes_vs_Goals.png)
 
 The table above uses the COUNTIFS function of excel to display the Outcomes Based on Goals in a line graph. By doing so, we are able to gather data on successful, failed and canceled events. The data reveals 0% of events were canceled. The data was filtered out by Parent Category and years in order to show Louise the best outcomes on projected goals by similar plays. Above are the results of the pivot table and line chart. 
 
